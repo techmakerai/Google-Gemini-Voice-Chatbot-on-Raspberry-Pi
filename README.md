@@ -26,5 +26,11 @@ You will need to install the following packages to run this code:
 $ pip install -q -U google-generativeai
 $ pip install speechrecognition gtts pygame gpiozero
 ```
+   
+If you have Python 3.12 or newer, also install the "setuptools" package,       
 
-You may need to create a Python virtual environment first.    
+```console
+pip install setuptools
+```    
+
+You may need to create a Python virtual environment first.      
