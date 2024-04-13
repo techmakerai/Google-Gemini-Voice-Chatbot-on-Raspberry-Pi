@@ -7,12 +7,12 @@ https://youtu.be/BQuYTOirVy4
 
 ## Materials 
 
-* Raspberry Pi    
-* microSD card     
-* Speaker   
-* Microphone (https://www.microcenter.com/product/613575/adafruit-industries-mini-usb-microphone-black)   
-* LEDs (optional)      
-* 200Ω resistors (optional)      
+1. Raspberry Pi (https://amzn.to/4bmstJa)
+2. microSD card (https://amzn.to/4ay0HbY)
+2. Audio amplifier (https://amzn.to/3JjPWy9)
+3. USB Microphone (https://amzn.to/3HGGSCA) 
+4. Mini speaker (https://amzn.to/3TB9Pp3)    
+5. (optional) LEDs and resistors (https://amzn.to/3Jg4Yoz)     
 
 ## Set System Environment Variables 
 
