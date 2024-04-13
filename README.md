@@ -28,3 +28,5 @@ You will need to install the following packages to run this code:
 $ pip install -q -U google-generativeai
 $ pip install speechrecognition gtts pygame gpiozero
 ```
+
+You may need to create a Python virtual environment first.    
