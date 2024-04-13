@@ -7,9 +7,11 @@ Following the YouTube video here to learn more about this code:
 
 ## Materials 
 
-* Raspberry Pi
-* Speaker
-* Microphone (https://www.microcenter.com/product/613575/adafruit-industries-mini-usb-microphone-black)
+* Raspberry Pi with microSD card   
+* Speaker   
+* Microphone (https://www.microcenter.com/product/613575/adafruit-industries-mini-usb-microphone-black)   
+* LEDs (optional)      
+* 200Ω resistors (optional)      
 
 ## Set System Environment Variables 
 
@@ -21,5 +23,5 @@ You will need to install the following packages to run this code:
 
 ```console
 $ pip install -q -U google-generativeai
-$ pip install speechrecognition openai pyttsx3 pyaudio pygame
+$ pip install speechrecognition gtts pygame gpiozero
 ```
