@@ -4,10 +4,12 @@ Previously, I built a voice assistant (chatbot) with Raspberry Pi, Python, and O
 
 Following the YouTube video here to learn more about this code:    
 
+The no-LED version of the code (GVA4Pi1_NoLED.py) works on both Raspberry Pi and Windows. 
 
 ## Materials 
 
-* Raspberry Pi with microSD card   
+* Raspberry Pi    
+* microSD card     
 * Speaker   
 * Microphone (https://www.microcenter.com/product/613575/adafruit-industries-mini-usb-microphone-black)   
 * LEDs (optional)      
