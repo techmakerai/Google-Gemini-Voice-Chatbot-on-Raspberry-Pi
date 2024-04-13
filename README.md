@@ -2,7 +2,8 @@
 
 Previously, I built a voice assistant (chatbot) with Raspberry Pi, Python, and OpenAI ChatGPT API. In this project, I changed it to use Google's Gemini API. This version has been tested on Raspberry Pi 4. 
 
-Following the YouTube video here to learn more about this code:    
+Following the YouTube video here to learn more about this code:     
+https://youtu.be/BQuYTOirVy4
 
 The no-LED version of the code (GVA4Pi1_NoLED.py) works on both Raspberry Pi and Windows. 
 
