@@ -1,5 +1,5 @@
-# A Voice Chatbot built with Google Gemini and Python for RP4
-# Tested and working on RP4B. 
+# A Voice Chatbot built with Google Gemini Pro and Python for RPi
+# Tested and working on RP 4 model B. 
 # By TechMakerAI on YouTube
 # 
 import google.generativeai as genai
@@ -26,6 +26,9 @@ today = str(date.today())
 # model of Google Gemini API
 model = genai.GenerativeModel('gemini-pro')
 chat = model.start_chat()
+
+# select to use OpenAI's text to speech API
+openaitts = False     
 
 def speak_text(text):
     global rled
