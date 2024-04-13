@@ -5,7 +5,7 @@ Previously, I built a voice assistant (chatbot) with Raspberry Pi, Python, and O
 Following the YouTube video below to learn more about this code:     
 https://youtu.be/BQuYTOirVy4
 
-Here is a diagram of the Raspberry Pi and LEDs    
+Here is a schematic of the Raspberry Pi and LEDs    
 <img src="https://github.com/techmakerai/Google-Gemini-Voice-Chatbot-on-Raspberry-Pi/blob/main/PaspberryPiSchematic.jpg" width="640"/>
 
 ## Materials 
