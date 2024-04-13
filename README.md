@@ -5,6 +5,9 @@ Previously, I built a voice assistant (chatbot) with Raspberry Pi, Python, and O
 Following the YouTube video below to learn more about this code:     
 https://youtu.be/BQuYTOirVy4
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 ## Materials 
 
 1. Raspberry Pi (https://amzn.to/4bmstJa)
