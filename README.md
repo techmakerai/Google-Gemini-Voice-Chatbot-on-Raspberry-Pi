@@ -6,7 +6,7 @@ Following the YouTube video below to learn more about this code:
 https://youtu.be/BQuYTOirVy4
 
 Here is a schematic of the Raspberry Pi and LEDs    
-<img src="https://github.com/techmakerai/Google-Gemini-Voice-Chatbot-on-Raspberry-Pi/blob/main/PaspberryPiSchematic.jpg" width="640"/>
+<img src="https://github.com/techmakerai/Google-Gemini-Voice-Chatbot-on-Raspberry-Pi/blob/main/PaspberryPiSchematic.jpg" width="720"/>
 
 ## Materials 
 
