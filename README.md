@@ -23,8 +23,8 @@ PYGAME_HIDE_SUPPORT_PROMPT=hide
 You will need to install the following packages to run this code: 
 
 ```console
-$ pip install -q -U google-generativeai
-$ pip install speechrecognition gtts pygame gpiozero
+pip install -q -U google-generativeai
+pip install speechrecognition gtts pygame gpiozero
 ```
    
 If you have Python 3.12 or newer, also install the "setuptools" package,       
